@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "IMG1",
+        "title": "Bike Parts",
+        "github": "https://github.com/",
+        "demo": "https://bike-parts-ce30d.web.app/"
+    },
+    {
+        "id": 2,
+        "image": "IMG2",
+        "title": "Bike Parts",
+        "github": "https://github.com/",
+        "demo": "https://bike-parts-ce30d.web.app/"
+    },
+    {
+        "id": 3,
+        "image": "IMG3",
+        "title": "Bike Parts",
+        "github": "https://github.com/",
+        "demo": "https://bike-parts-ce30d.web.app/"
+    },
+    {
+        "id": 4,
+        "image": "IMG4",
+        "title": "Bike Parts",
+        "github": "https://github.com/",
+        "demo": "https://bike-parts-ce30d.web.app/"
+    },
+    {
+        "id": 5,
+        "image": "IMG5",
+        "title": "Bike Parts",
+        "github": "https://github.com/",
+        "demo": "https://bike-parts-ce30d.web.app/"
+    },
+    {
+        "id": 6,
+        "image": "IMG6",
+        "title": "Bike Parts",
+        "github": "https://github.com/",
+        "demo": "https://bike-parts-ce30d.web.app/"
+    }
+]
