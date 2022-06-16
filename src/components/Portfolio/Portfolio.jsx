@@ -1,7 +1,7 @@
 import React from 'react';
 import './Portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
@@ -11,16 +11,16 @@ const data = [
     {
         "id": 1,
         "image": IMG1,
-        "title": "Bike Parts",
-        "github": "https://github.com/",
-        "demo": "https://bike-parts-ce30d.web.app/"
+        "title": "Educational Website",
+        "github": "https://github.com/nurulcse7/educational-website-clone/",
+        "demo": "https://astounding-gumdrop-315dc7.netlify.app/"
     },
     {
         "id": 2,
         "image": IMG2,
-        "title": "Project title here 02",
-        "github": "https://github.com/",
-        "demo": "https://bike-parts-ce30d.web.app/"
+        "title": "GPT-3 OpenAI",
+        "github": "https://github.com/nurulcse7/gpt3_jsm-clone/",
+        "demo": "https://gpt3-jsm.web.app/"
     },
     {
         "id": 3,
