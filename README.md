@@ -35,7 +35,7 @@ This is a Portfolio web development project for build a personal portfolio websi
 04. (If you like my code don't forget starred on my GitHub repository).
 
 #### 02. Multi-page education/school website (Responsive)
-01. Live website link : [Click here](https://astounding-gumdrop-315dc7.netlify.app/).
+01. Live website link : [Click here](https://education-landing-page.netlify.app/).
 02. Code Link (forClone) : [Click here](https://github.com/nurulcse7/educational-website-clone). (N.B. For privacy purpose, this is only sample code and not include all file (style.css), below is full/production/main code link).
 03. Code Link (forProduction/Origin) : [Click here](https://github.com/nurulcse7/education-web).
 04. (If you like my code don't forget starred on my GitHub repository).
